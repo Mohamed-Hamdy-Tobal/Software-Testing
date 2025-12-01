@@ -8,20 +8,20 @@ This repo contains practical demonstrations of testing techniques across multipl
 
 ## 🚀 Quick Start
 
-1. Clone the repo  
+1. Clone the repo
+
    ```bash
    git clone https://github.com/Mohamed-Hamdy-Tobal/Software-Testing.git
    cd Software-Testing
    ```
 
-2. Install dependencies (per sub-project)  
+2. Install dependencies (per sub-project)
+
    ```bash
-   # Example for Node.js project
-   cd examples/node
    npm install
    ```
 
-3. Run tests  
+3. Run tests
    ```bash
    npm test
    ```
