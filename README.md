@@ -25,5 +25,3 @@ This repo contains practical demonstrations of testing techniques across multipl
    ```bash
    npm test
    ```
-
-## 📁 Structure
