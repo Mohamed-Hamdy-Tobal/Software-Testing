@@ -10,6 +10,7 @@ async function main() {
   const page = await browser.newPage();
   await page.goto("http://127.0.0.1:5500/test/e2e/mysite.html");
 
+  await page.type("input[id='name']", "Test User");
   await page.type("input[id='email']", "test@example.com");
   await page.type("input[id='password']", "123456");
 
